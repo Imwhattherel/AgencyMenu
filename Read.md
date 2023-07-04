@@ -1,10 +1,13 @@
 
-a menu for scnp25 https://www.scncomms.app/
+A menu for scnp25 https://www.scncomms.app/
 
 
+Dependencies
+
+NativeUI: https://github.com/Guad/NativeUI/releases
 
 Credits
-NativeUI: https://github.com/Guad/NativeUI/releases
+
 
 
 
