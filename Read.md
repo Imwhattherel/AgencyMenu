@@ -11,12 +11,16 @@ Credits
 
 
 
-Agency Menu by: WhatTheReL
+Agency Menu by: WhatTheReL https://discord.gg/5knq7Sr7CC
 
 
 Thanks to Jeva for the "FiveM - Creating a menu with NativeUI Lua" tutorial
 
 
+
+
+
+How to add more agencies
 
 
 To add more agencies add the code listed below. replace the ______ with whatever you want. i used First - Third so you could use Forth and so on.  after you paste that code and configure it to your liking add the Item to the bottom. i have marked the spot with ---Exra slot here the item should be named ___Item(mainMenu) and replace the ____ with what you put for the function. (look at the lua for an example)
