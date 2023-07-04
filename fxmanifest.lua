@@ -7,5 +7,5 @@ version '1.1'
 
 client_scripts {
     "@NativeUI/NativeUI.lua",
-    "agencymenu.lua"
+    "menu.lua"
 }
