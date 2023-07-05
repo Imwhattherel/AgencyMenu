@@ -2,16 +2,7 @@
 A menu for scnp25 https://www.scncomms.app/
 
 
-Dependencies
-
-NativeUI: https://github.com/Guad/NativeUI/releases
-
-Credits
-
-
-
-
-Agency Menu by: WhatTheReL https://discord.gg/5knq7Sr7CC
+Support: https://discord.gg/5knq7Sr7CC
 
 
 Thanks to Jeva for the "FiveM - Creating a menu with NativeUI Lua" tutorial
