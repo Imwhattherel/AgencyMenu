@@ -2,7 +2,7 @@
 A menu for scnp25 https://www.scncomms.app/
 
 
-Support: https://discord.gg/5knq7Sr7CC
+Support: https://discord.gg/96vePT5hwa
 
 
 Thanks to Jeva for the "FiveM - Creating a menu with NativeUI Lua" tutorial
