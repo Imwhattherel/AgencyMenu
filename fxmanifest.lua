@@ -1,5 +1,5 @@
 fx_version 'cerulean'
-games { 'rdr3', 'gta5' }
+games { 'gta5' }
 
 author 'WhatTheReL'
 description 'Agency Menu to make setting codeplugs for SCNP25 simpler'
